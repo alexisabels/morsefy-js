@@ -1,0 +1,23 @@
+{
+    "name": "morsefy-js",
+    "version": "1.0.2",
+    "description": "",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/preset-env": "^7.26.0",
+        "babel-jest": "^29.7.0",
+        "eslint": "^9.17.0",
+        "jest": "^29.7.0",
+        "prettier": "^3.4.2"
+    },
+    "dependencies": {
+        "ts-jest": "^29.2.5"
+    }
+}
